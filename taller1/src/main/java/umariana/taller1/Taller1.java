@@ -11,7 +11,7 @@ import mundo.Tarea;
 
 /**
  *
- * @author Anthony
+ * @author Anthony Viveros
  */
 public class Taller1 {
 
