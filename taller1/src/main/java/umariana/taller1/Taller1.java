@@ -71,7 +71,9 @@ public class Taller1 {
                     // mostrar las tareas ordenadas por prioridad de forma descendente
                      System.out.println("Tareas ordenadas por prioridad de forma descendente:");
                      for (Tarea o : misTareas) {
-                      System.out.println("id: " + o.getIdTarea() + ", descripcion: " + o.getDescripcion() + ", prioridad: " + o.getPrioridad());
+                    System.out.println("id: " + o.getIdTarea());
+                    System.out.println("descripcion:" + o.getDescripcion());
+                    System.out.println("prioridad: " + o.getPrioridad());
                      }
              break;
 
