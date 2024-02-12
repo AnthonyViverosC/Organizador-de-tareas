@@ -4,7 +4,7 @@ Java
 
 ---
 
-## Propósito del Sitio
+## Propósito 
 
 programa en Java que simule un organizador de tareas diarias para estudiantes
 
