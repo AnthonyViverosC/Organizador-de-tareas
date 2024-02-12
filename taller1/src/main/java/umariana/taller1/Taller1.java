@@ -77,7 +77,7 @@ public class Taller1 {
              break;
 
                 case 4:
-                    
+                     //cerrar el programa
                     activo = false; System.out.println("Programa Terminado");
                     break;
                 default:
