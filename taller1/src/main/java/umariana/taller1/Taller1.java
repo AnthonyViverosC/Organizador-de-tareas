@@ -15,8 +15,7 @@ import mundo.Tarea;
  */
 public class Taller1 {
 
-    private static int getPrioridad;
-
+   
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         ArrayList<Tarea> misTareas = new ArrayList<>();
