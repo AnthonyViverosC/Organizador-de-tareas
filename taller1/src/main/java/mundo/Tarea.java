@@ -6,7 +6,7 @@ package mundo;
 
 /**
  *
- * @author AnthonyBrr
+ * @author Anthony Viveros
  */
 public class Tarea {
 
