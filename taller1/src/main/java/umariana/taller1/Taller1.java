@@ -26,7 +26,7 @@ public class Taller1 {
             System.out.println("---Menu de opciones---------");
             System.out.println("---1.Agregar tarea----------");
             System.out.println("---2.Mostrar tarea----------");
-            System.out.println("---3.Ordenar tareas");
+            System.out.println("---3.Ordenar tareas---------");
             System.out.println("---4.Terminar programa------");
             System.out.println("---Seleccione una opcion----");
             System.out.println("----------------------------");
