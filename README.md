@@ -6,7 +6,7 @@ Java
 
 ## Propósito 
 
-programa en Java que simule un organizador de tareas diarias para estudiantes
+programa en Java que simule un organizador de tareas diarias 
 
 ---
 ## Herramientas Utilizadas
